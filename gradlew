@@ -232,3 +232,6 @@ eval "set -- $(
     )" '"$@"'
 
 exec "$JAVACMD" "$@"
+<a href="https://marketplace.visualstudio.com/items?itemName=publishername.extensionname">
+    <img src="https://vsmarketplacebadges.dev/badge_title/publishername.extensionname.svg" alt="badge_title">
+</a>
